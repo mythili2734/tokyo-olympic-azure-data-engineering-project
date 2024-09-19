@@ -12,8 +12,8 @@ The data set consists of five tables containing information about athletes, coac
 ## Tools Used ##
 
 The project leverages the following Azure services:
-1.Azure Data Factory: Used for data ingestion and orchestration.
-2.Azure Data Lake Storage Gen2: Used for storing raw and transformed data.
-3.Azure Databricks: Used for data transformation and processing.
-4.Azure Synapse Analytics: Used for data analysis and querying.
-5.Power BI: Used for data visualization and creating dashboards.
+1.*Azure Data Factory*: Used for data ingestion and orchestration.
+2.*Azure Data Lake Storage Gen2*: Used for storing raw and transformed data.
+3.*Azure Databricks*: Used for data transformation and processing.
+4.*Azure Synapse Analytics*: Used for data analysis and querying.
+5.*Power BI*: Used for data visualization and creating dashboards.
