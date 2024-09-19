@@ -17,3 +17,7 @@ The data set consists of five tables containing information about athletes, coac
 3. *Azure Databricks:* Used for data transformation and processing.
 4. *Azure Synapse Analytics:* Used for data analysis and querying.
 5. *Power BI:* Used for data visualization and creating dashboards.
+
+## Project Workflow ##
+1. *Data Ingestion:*
+       -Data is ingested from the data source using Azure Data Factory.
