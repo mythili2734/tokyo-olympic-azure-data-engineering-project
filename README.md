@@ -6,3 +6,14 @@ This project demonstrates a complete data engineering pipeline using various Azu
 ## Project Architecutre ##
 ![image](https://github.com/user-attachments/assets/a3a6bcff-88e8-4c8c-b8b2-bc3349ecba42)
 
+## Data Set ##
+The data set consists of five tables containing information about athletes, coaches, entries by gender, medals, and teams. The data is available in CSV formats.
+
+## Tools Used ##
+
+The project leverages the following Azure services:
+1.Azure Data Factory: Used for data ingestion and orchestration.
+2.Azure Data Lake Storage Gen2: Used for storing raw and transformed data.
+3.Azure Databricks: Used for data transformation and processing.
+4.Azure Synapse Analytics: Used for data analysis and querying.
+5.Power BI: Used for data visualization and creating dashboards.
