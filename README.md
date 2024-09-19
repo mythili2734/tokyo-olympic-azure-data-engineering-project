@@ -21,10 +21,18 @@ The data set consists of five tables containing information about athletes, coac
 ## Project Workflow ##
 1. *Data Ingestion:*
 
-Data is ingested from the data source using Azure Data Factory.
-The ingested data is stored in Azure Data Lake Storage Gen2 as raw data.
+          Data is ingested from the data source using Azure Data Factory.
+          The ingested data is stored in Azure Data Lake Storage Gen2 as raw data.
 
 2. *Data Transformation:*
 
-Raw data is transformed using Azure Databricks.
-The transformed data is then stored back in Azure Data Lake Storage Gen2.
+          Raw data is transformed using Azure Databricks.
+          The transformed data is then stored back in Azure Data Lake Storage Gen2.
+
+3. *Data Analysis:*
+
+           Transformed data is analyzed using Azure Synapse Analytics.
+           Basic charts and analyses are performed in Azure Synapse Analytics.
+4. *Data Visualization:*
+
+           The analyzed data is visualized using Power BI to create interactive dashboards.
